@@ -74,6 +74,13 @@
 - vector
 - string
 - list
+- map/hashset
+- stack
+
+Умных указателей
+
+- unique_ptr
+- shared_ptr
 
 ### Дальше
 Реализация систем учёта:
